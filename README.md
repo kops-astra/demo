@@ -4,6 +4,4 @@ this is a read me file
 
 ##Heading 2 some random texts
 
-New edits for diff tool
-
-Another very bad update, to irritate
+something is going on in here, what is it?
